@@ -3,7 +3,7 @@
 //  1
 //
 //  Created by kidneybeans on 17/11/1.
-//  Copyright ? 2017Äêkidneybeans. All rights reserved.
+//  Copyright ? 2017 kidneybeans. All rights reserved.
 //
 
 #include <iostream>
